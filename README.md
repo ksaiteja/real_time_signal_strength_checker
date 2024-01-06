@@ -1,16 +1,9 @@
-# real_time_signal_strength_checker
+###### real_time_signal_strength_checker
 
-A new Flutter project.
+**About Project:**
+This project enables users to check the cellular signal strength of different network providers (such as Jio, Airtel, Vi, etc.) at various locations.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Screens:**
+<p align="center">
+  <img src="https://github.com/ksaiteja/real_time_signal_strength_checker/assets/33175083/2e2fa6d7-98ac-4d54-b9b4-91e8a6e30e12" alt="Screenshot" width="375" height="667">
+</p>
